@@ -73,4 +73,4 @@ Each row in the dataset represents a movie, and the columns include attributes l
 ## **How to Run the Project**  
 1. Clone this repository:  
    ```bash
-   git clone 
+   git clone https://github.com/Nagar2nd/IMDB-Movie-Analysis-Python.git
